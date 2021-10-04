@@ -29,7 +29,7 @@ https://adithyapaib.github.io/Neomorphic-PortfolioTemplate/
 
 # Template Preview
 
-This is an OpenSource Portfolio Template Based on Neomorphic Theme Made with pure HTML, CSS(SCSS), And a bit of Java script.
+This is an OpenSource Portfolio Template Based on Neomorphic Theme made with pure HTML, CSS(SCSS)and a bit of Java script.
 
 ## Screenshots
 
@@ -52,7 +52,7 @@ https://adithyapaib.github.io/Neomorphic-PortfolioTemplate/
 ## Features
 
 - Responsive Layout
-- Rich, multi-step animations 
+- Rich multi-step animations 
 - Fullscreen mode
 - Aesthetic and modern UI
 
@@ -80,7 +80,7 @@ I'm a Front-End Developer and Open-Source Enthusiast.
 
   
 ## 🛠 Skills
-Javascript, HTML, CSS,etc..
+Javascript, HTML, CSS,etc.
 
 ## Authors
 
@@ -97,7 +97,7 @@ Please adhere to this project's **code of conduct**.
   
 ## Feedback
 
-If you have any feedback, please reach out to us at paiadithya26@gmail.com
+If you have any feedback, please reach out to us at paiadithya26@gmail.com.
 
 ## Support
 
